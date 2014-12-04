@@ -89,4 +89,3 @@ ad.sort()
 
 for a in ad:
   print "%4i px * %4i px = %6s px2  [%25s]" % (a[1], a[2], a[0], a[3])
-
